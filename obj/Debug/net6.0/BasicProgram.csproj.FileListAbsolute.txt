@@ -1,0 +1,15 @@
+E:\CFP_Batch\ProgramBasic\BasicProgram.1\bin\Debug\net6.0\BasicProgram.exe
+E:\CFP_Batch\ProgramBasic\BasicProgram.1\bin\Debug\net6.0\BasicProgram.deps.json
+E:\CFP_Batch\ProgramBasic\BasicProgram.1\bin\Debug\net6.0\BasicProgram.runtimeconfig.json
+E:\CFP_Batch\ProgramBasic\BasicProgram.1\bin\Debug\net6.0\BasicProgram.dll
+E:\CFP_Batch\ProgramBasic\BasicProgram.1\bin\Debug\net6.0\BasicProgram.pdb
+E:\CFP_Batch\ProgramBasic\BasicProgram.1\obj\Debug\net6.0\BasicProgram.csproj.AssemblyReference.cache
+E:\CFP_Batch\ProgramBasic\BasicProgram.1\obj\Debug\net6.0\BasicProgram.GeneratedMSBuildEditorConfig.editorconfig
+E:\CFP_Batch\ProgramBasic\BasicProgram.1\obj\Debug\net6.0\BasicProgram.AssemblyInfoInputs.cache
+E:\CFP_Batch\ProgramBasic\BasicProgram.1\obj\Debug\net6.0\BasicProgram.AssemblyInfo.cs
+E:\CFP_Batch\ProgramBasic\BasicProgram.1\obj\Debug\net6.0\BasicProgram.csproj.CoreCompileInputs.cache
+E:\CFP_Batch\ProgramBasic\BasicProgram.1\obj\Debug\net6.0\BasicProgram.dll
+E:\CFP_Batch\ProgramBasic\BasicProgram.1\obj\Debug\net6.0\refint\BasicProgram.dll
+E:\CFP_Batch\ProgramBasic\BasicProgram.1\obj\Debug\net6.0\BasicProgram.pdb
+E:\CFP_Batch\ProgramBasic\BasicProgram.1\obj\Debug\net6.0\BasicProgram.genruntimeconfig.cache
+E:\CFP_Batch\ProgramBasic\BasicProgram.1\obj\Debug\net6.0\ref\BasicProgram.dll
